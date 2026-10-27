@@ -12,16 +12,14 @@
 # # print(a)
 # print(avg())
 
-
-
 # 1.
-# def too_bnuu():
-#     nums = list(map(int,input().split()))
-#     if 20 in nums:
-#         print("YES")
-#     else:
-#         print("NO")
-# too_bnuu()
+def too_bnuu():
+    nums = list(map(int,input().split()))
+    if 20 in nums:
+        print("YES")
+    else:
+        print("NOOOOO")
+too_bnuu()
 
 
 
